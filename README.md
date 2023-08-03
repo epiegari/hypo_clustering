@@ -1,6 +1,6 @@
 # hypo_clustering
 The scripts in this repository allow to image segmented fault surfaces illuminated by hypocenter clustering method presented in Piegari et al. (2023) 
-available at https://zenodo.org/record/8211185
+submitted for publication in Journal of Geophysical Reserach and available at https://zenodo.org/record/8211185
 
 ## Scientific publication
 If you use the code in this repository please cite the preprint available at https://zenodo.org/record/8211185
