@@ -1,6 +1,5 @@
 # hypo_clustering
-The scripts in this repository allow to image segmented fault surfaces illuminated by hypocenter clustering method presented in Piegari et al. (2023) 
-submitted for publication in Earth and Space Science and available at https://zenodo.org/record/8290171
+The scripts in this repository facilitate imaging of segmented fault surfaces illuminated by the hypocenter clustering method presented in Piegari et al. (2024), published in Earth and Space Science and available at https://doi.org/10.1029/2023EA003267. The script related to using Principal Component Analysis (PCA) for plane representation has been updated with a valuable contribution from Cliff Thurber, to whom I extend my sincere thanks.
 
 ## Scientific publication
 If you use the code in this repository please cite the preprint available at https://zenodo.org/record/8290171
@@ -15,6 +14,7 @@ The MATLAB codes stored in the folder are:
 - DBSCAN + PCA for identifying third order fault surfaces: dbscan_cto.m
 - OPTICS for determination of reachability plot: optics_hypoclustering.m
 - PCA analysis and fault parameter estimation: pca_planes.m
+- PCA analysis and fault parameter estimation: pca_planes_updated.m
 - hypocenter density computation and visualization: hypodens.m
 
 ## Usage
