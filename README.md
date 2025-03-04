@@ -2,7 +2,7 @@
 The scripts in this repository facilitate imaging of segmented fault surfaces illuminated by the hypocenter clustering method presented in Piegari et al. (2024), published in Earth and Space Science and available at https://doi.org/10.1029/2023EA003267. The script related to using Principal Component Analysis (PCA) for plane representation has been updated with a valuable contribution from Cliff Thurber, to whom I extend my sincere thanks.
 
 ## Scientific publication
-If you use the code in this repository please cite the preprint available at https://zenodo.org/record/8290171
+If you use the code in this repository, please cite the publication: https://doi.org/10.1029/2023EA003267
 
 ## Installation
 To make these MATLAB scripts work on your machine you need to install the Statistics and Machine Learning Toolbox of MATLAB. 
